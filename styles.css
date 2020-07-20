@@ -3,3 +3,8 @@ h1 {
     text-align: center;
     font-family: helvetica;
 }
+
+#header {
+    background:  rgb(18, 184, 199);
+    color: whitesmoke;
+}
